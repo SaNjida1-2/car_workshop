@@ -1,0 +1,79 @@
+﻿============================================================
+           AI USAGE DECLARATION
+============================================================
+
+
+Name: Most Sanjida Saklain
+Student ID: 21301015
+Assignment: 2
+Date: 23/2/26
+
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+[ ] None
+[✓ ] ChatGPT
+[ ] GitHub Copilot
+[ ] Google Gemini
+[ ] Claude
+[ ] Cursor
+[ ] Other: Deepseek
+
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+[✓] Learning/understanding concepts
+[✓] Debugging my code
+[ ] Generating code snippets
+[ ] Writing text content
+[✓] Design/styling ideas
+[ ] Image generation
+[ ] Other: ________________
+
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+Briefly describe what you used AI for and how: I used AI as an assistant to help me explore different kinds of styles and tools to decide which one aligns with my imagination. I wanted to do a lot of things but I was not sure if there was any easy way to accomplish it. AI helped me to bring my thoughts to reality by working as a one stop resource. I also needed AI to guide me through the hosting process because it is totally a new thing to me.
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+List specific files/sections where AI helped significantly:
+
+
+File: appointment.php Section: making slot numbers align with database and admin dashboard. 
+File: admin.php Section: edit slots. 
+
+
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+
+Signature: Sanjida
+Date: 6/3/26
+
+
+============================================================
+Save as: docs/AI_Declaration.txt
+============================================================
